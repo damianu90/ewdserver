@@ -1,2 +1,2 @@
-# ewdserver
+# EwdServer
 Application server - EwdServer.
